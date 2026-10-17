@@ -1,0 +1,11 @@
+id,incident,severity,people,location,status
+1,Flood,5,20,Area A,Unresolved
+2,Heatwave,3,8,Area B,Unresolved
+3,Medical Emergency,5,4,Area C,Unresolved
+4,Blocked Road,2,15,Area D,Unresolved
+5,Flood,4,30,Area E,Unresolved
+6,Water Shortage,3,50,Area F,Unresolved
+7,Building Damage,4,12,Area G,Unresolved
+8,Heatwave,5,18,Area H,Unresolved
+9,Flood,2,6,Area I,Resolved
+10,Blocked Road,3,25,Area J,Unresolved
